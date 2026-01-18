@@ -1,27 +1,41 @@
 # Customer-Behavior-Data-Analysis
-A complete end-to-end data analytics project demonstrating data extraction, cleaning, analysis, and visualization to generate business insights.
-🔹 Overview
-1. Loaded and analyzed structured data using Python
-2. Performed EDA & data cleaning
-3. Executed SQL queries on PostgreSQL/MySQL/SQL Server
-4. Built an interactive Power BI dashboard
-5. Created a concise analysis report & presentation (Gamma)
 
-🔹 Tools & Technologies
-1. Python (Pandas, NumPy, Matplotlib/Seaborn)
-2. SQL (PostgreSQL / MySQL / SQL Server)
-3. Power BI
-4. Gamma (PPT)
+## Overview
+This project demonstrates an end-to-end data analytics workflow, including data loading, cleaning, analysis, visualization, and reporting. It focuses on extracting meaningful insights from data and presenting them in a clear, business-friendly format.
 
-🔹 Key Outcomes
-1. Identified trends, patterns, and KPIs
-2. Delivered actionable insights via dashboards
-3. Improved data readability and decision support
+## Dataset
+- Structured dataset used for analysis
+- Cleaned and preprocessed using Python
+- Prepared for SQL querying and visualization
 
-🔹 How to Run
-1. Load the dataset
-2. Run Python notebooks/scripts
-3. Execute SQL queries
-4. Open Power BI dashboard
+## Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL / MySQL / SQL Server)
+- Power BI
+- Gamma (Report & Presentation)
 
- Ideal project showcasing practical skills in Data Analytics, SQL, Python, and BI tools
+## Steps Performed
+1. Loaded the dataset using Python
+2. Performed Exploratory Data Analysis (EDA)
+3. Cleaned and transformed the data
+4. Executed SQL queries to answer business questions
+5. Built an interactive Power BI dashboard
+6. Created a report and presentation using Gamma
+
+## Dashboard
+- Interactive Power BI dashboard
+- Visualizes KPIs, trends, and patterns
+
+## Results & Insights
+- Identified key trends and performance metrics
+- Generated actionable insights for decision-making
+
+## How to Run
+1. Clone the repository
+2. Run Python scripts/notebooks for data processing
+3. Execute SQL queries on the database
+4. Open the Power BI dashboard to view insights
+
+## Conclusion
+This project showcases practical skills in data analytics, SQL, Python, and business intelligence tools, making it suitable for Data Analyst roles.
+
